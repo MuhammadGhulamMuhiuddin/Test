@@ -1,2 +1,2 @@
 # Test
-test-bn38zgzpn-muhammadghulammuhiuddins-projects.vercel.app
+ https://test-sooty-ten-44.vercel.app/
